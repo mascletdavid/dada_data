@@ -1,0 +1,13 @@
+Abattant,Abattu,Nb_fois
+Nelly,Thibault,7
+Nelly,Lucas,3
+Nelly,David,14
+Thibault,Nelly,6
+Thibault,Lucas,5
+Thibault,David,9
+Lucas,Nelly,4
+Lucas,Thibault,7
+Lucas,David,9
+David,Nelly,12
+David,Thibault,10
+David,Lucas,9
